@@ -1,2 +1,2 @@
 # python-practice
-Small python scripts for practice
+Python scripts for practice
